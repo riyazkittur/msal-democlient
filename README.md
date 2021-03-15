@@ -11,6 +11,9 @@ Windows (Powershell)
 
 Windows (cmd.exe)
 set HTTPS=true&&npm start
+
+Ignore certificate error and proceed
+
 Runs the app in the development mode.<br />
 Open [https://localhost:3000](https://localhost:3000) to view it in the browser.
 
